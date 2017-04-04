@@ -36,7 +36,7 @@ $dark:                            #444 !default;
 	border-radius:50% !important;
 }
 
-.bar-content .secondary-buttons .ion-plus{
+.nav-bar-container .bar-header .secondary-buttons .ion-plus{
 	display:none !important;
 }
 
